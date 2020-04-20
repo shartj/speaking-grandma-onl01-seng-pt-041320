@@ -11,3 +11,11 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
+def speak_to_grandma(argument)
+  if argument == "I LOVE YOU GRANDMA!"
+    "I LOVE YOU TOO PUMPKIN!"
+    "HI NANA, HOW ARE YOU?"
+    "HUH?! SPEAK UP, SONNY!"
+    "WHAT DID YOU EAT TODAY?"
+end 
+end
